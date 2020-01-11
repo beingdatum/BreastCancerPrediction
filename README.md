@@ -42,7 +42,10 @@ Below message in Python shell is seen, which indicates that our App is now hoste
 ```
 
 
-Here's our UI looks like: 
+HERE'S HOW OUR FRONTEND LOOKS LIKE:
 
+FOR DIAGNOSED, WE ARE ALSO SHOWING THE PROBABILITY/CONFIDENCE SCORE:
 ![Diagnosed](https://github.com/beingdatum/BreastCancerPrediction/blob/master/Images/diag.PNG)
+
+FOR NON DIAGNOSED, WE SIMPLY RETURN THAT "THE PATIENT IS NOT DIAGNOSED BY BREAST CANCER"
 ![Not Diagnosed](https://github.com/beingdatum/BreastCancerPrediction/blob/master/Images/notdiag.PNG)
