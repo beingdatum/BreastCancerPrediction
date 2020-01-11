@@ -42,7 +42,7 @@ Below message in Python shell is seen, which indicates that our App is now hoste
 ```
 
 
-Here's our UI looks like:
+Here's our UI looks like: 
 
 ![Diagnosed](https://beingdatum.com/wp-content/uploads/2020/01/diag.PNG)
 ![Not Diagnosed](https://beingdatum.com/wp-content/uploads/2020/01/notdiag.PNG)
