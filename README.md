@@ -40,3 +40,9 @@ Below message in Python shell is seen, which indicates that our App is now hoste
 ```
 * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ```
+
+
+Here's our UI looks like:
+
+![Diagnosed](https://beingdatum.com/wp-content/uploads/2020/01/diag.PNG)
+![Not Diagnosed](https://beingdatum.com/wp-content/uploads/2020/01/notdiag.PNG)
